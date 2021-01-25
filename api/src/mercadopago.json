@@ -1,0 +1,11 @@
+{
+  "vendedor": {
+    "MERCADOPAGO_ACCESS_TOKEN": "TEST-6419447582364556-011520-bd3a9ffbd4590067c4bc582fcd849ce5-180937466",
+    "id": 702180282,
+    "nickname": "TESTZZALYP4B",
+    "password": "qatest7477",
+    "site_status": "active",
+    "email": "test_user_81229670@testuser.com"
+  },
+  "comprador": {}
+}
