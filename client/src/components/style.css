@@ -1,0 +1,64 @@
+.productoDetalle {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin: auto;
+    margin-top: 10rem;
+    width: 52rem;
+    height: 25rem;
+    justify-content: space-around;
+    
+}
+
+.textoDetalle {
+    width: 25rem;
+    height: 20rem;   
+}
+
+.contenedor {
+    font-size: 1rem;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 100px;
+    width: 25rem;
+    height: 35rem;
+}
+
+img {
+    width: 25rem;
+}
+
+.cartas {
+    display: flex;
+}
+
+.topnav {
+    background-color: #393841;
+    color:  #E6E6E7;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 80rem;
+    align-items: center;
+}
+
+.storeButton {
+    background-color: #D55730;
+    padding: 0.5rem 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.signUpButton {
+    padding: 0.4rem 1rem;
+    border: 0.2rem solid  #D55730;
+    border-radius: 0.5rem;
+}
+
+.inputSearch {
+    border-radius: 0.3rem;
+}
+body {
+    background-color: lightblue;
+}

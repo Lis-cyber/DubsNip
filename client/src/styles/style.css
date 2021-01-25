@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+}
+
+.container {
+    /* display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 1rem;
+    flex-direction: column;
+    border: 0.125rem solid black;
+    border-radius: 1rem; */
+
+
+
+
+    /* font-size: 1rem;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 100px;
+    width: 25rem;
+    height: 35rem; */
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+    display: flex;
+    
+
+}
+
+img {
+    width: 25rem;
+}

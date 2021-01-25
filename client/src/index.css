@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Damion&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Flamenco&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Flamenco", cursive, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-family: "Damion", cursive;
+  font-size: 4rem;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: "Damion", cursive;
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Damion", cursive;
+  font-weight: normal;
+  font-size: 2.25rem;
+}
+
+input,
+textarea {
+  outline: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
